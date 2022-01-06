@@ -1,0 +1,15 @@
+ "firstName":"abcd", "lastName":"asdf",
+ "email":"demo123@admin.com", "password":"12345678",
+ "passwordConfirm":"12345678", "roleId" : "5f4b48af0df2531f0acc8d46"
+
+http://44.240.103.45:4009/v1/login
+************** New User *********************
+
+ "firstName":"demo", "lastName":"admin",
+ "email":"demo999@admin.com", "password":"12345678",
+ "passwordConfirm":"12345678", "roleId" : "5f4b48af0df2531f0acc8d46"
+
+
+ ****************
+ email : rahul1234@gmail.com
+ pass : asdfghjkl
